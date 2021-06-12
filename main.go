@@ -6,6 +6,6 @@ import (
 
 func main() {
 
-	tetris.Tetris("C:\\Users\\acer\\go\\src\\github.com\\turbalet\\go_hw4\\tetris\\structfile.go")
+	tetris.Tetris("./tetris/structfile.go")
 
 }
